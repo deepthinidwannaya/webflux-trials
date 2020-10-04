@@ -1,3 +1,3 @@
 # webflux-trials
 
-Learning reactive programming with spring webflux - Most code in unit tests
+Learning reactive programming with spring webflux/reactor core - Most code in unit tests
